@@ -1,0 +1,49 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+ 
+body{
+    background-color: bisque;
+    padding: 5rem 10rem;
+}
+ 
+#container {
+    margin: auto;
+}
+ 
+#container h1{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.post-id{
+    background-color: aliceblue;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color:skyblue;
+    text-align: center;
+    padding: 15px;
+}
+
+.post-info{
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+ 
+#container .posts {
+    margin-top: 5rem;
+    background-color: blueviolet;
+    padding: 2rem 5rem;
+
+}
