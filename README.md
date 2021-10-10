@@ -1,1 +1,1 @@
-# infinite-scroll
+# infinite-scroll using Vanilla JavaScript
